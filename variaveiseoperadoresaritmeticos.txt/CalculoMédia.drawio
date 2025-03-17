@@ -1,9 +1,36 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Página-1" id="E0NQWRxJID7h3gLvjSp8">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pdpkJMMnLF64ov36LxLp-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pdpkJMMnLF64ov36LxLp-2" target="pdpkJMMnLF64ov36LxLp-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pdpkJMMnLF64ov36LxLp-2" value="início" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="330" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pdpkJMMnLF64ov36LxLp-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pdpkJMMnLF64ov36LxLp-3" target="pdpkJMMnLF64ov36LxLp-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pdpkJMMnLF64ov36LxLp-3" value="num1,num2" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="330" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pdpkJMMnLF64ov36LxLp-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pdpkJMMnLF64ov36LxLp-5" target="pdpkJMMnLF64ov36LxLp-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pdpkJMMnLF64ov36LxLp-5" value="media = (num1+num2)" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="330" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pdpkJMMnLF64ov36LxLp-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pdpkJMMnLF64ov36LxLp-7" target="pdpkJMMnLF64ov36LxLp-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pdpkJMMnLF64ov36LxLp-7" value="media" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="330" y="670" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pdpkJMMnLF64ov36LxLp-9" value="fim" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="350" y="830" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
